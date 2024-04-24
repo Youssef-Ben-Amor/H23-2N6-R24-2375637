@@ -11,13 +11,13 @@ namespace PolymorphismeFigures
     // TODO 04 : Décommenter les lignes de ce formulaire afin de faire fonctionner l'application
     public partial class FrmPrincipal : Form
     {
-        //private Dessin m_objDessin;
+        private Dessin m_objDessin;
         /// ---------------------------------------------------------------------------------
         public FrmPrincipal()
         {
             InitializeComponent();
             cboTypeFigure.SelectedIndex = 0;
-            //m_objDessin = new Dessin();
+            m_objDessin = new Dessin();
         }
 
         #region panDessin_MouseDown
@@ -34,20 +34,20 @@ namespace PolymorphismeFigures
             switch (typeDeFigure)
             {
                 case enuTypeFigure.Ellipse:
-                    //objNouvelleFigure = new Ellipse(origine, taille, couleur);
+                    objNouvelleFigure = new Ellipse(origine, taille, couleur);
                     break;
                 case enuTypeFigure.Losange:
-                    //objNouvelleFigure = new Losange(origine, taille, couleur);
+                    objNouvelleFigure = new Losange(origine, taille, couleur);
                     break;
                 case enuTypeFigure.Rectangle:
-                    //objNouvelleFigure = new Rectangle(origine, taille, couleur);
+                    objNouvelleFigure = new Rectangle(origine, taille, couleur);
                     break;
                 case enuTypeFigure.Triangle:
-                    //objNouvelleFigure = new Triangle(origine, taille, couleur);
+                    objNouvelleFigure = new Triangle(origine, taille, couleur);
                     break;
             }
-            //m_objDessin.Ajouter(objNouvelleFigure);
-            //objNouvelleFigure.Dessiner(panDessin.CreateGraphics());
+            m_objDessin.Ajouter(objNouvelleFigure);
+            objNouvelleFigure.Dessiner(panDessin.CreateGraphics());
         }
         #endregion
 
@@ -55,24 +55,24 @@ namespace PolymorphismeFigures
         /// ---------------------------------------------------------------------------------
         private void panDessin_Paint(object sender, PaintEventArgs e)
         {
-            //m_objDessin.Dessiner(e.Graphics);
+            m_objDessin.Dessiner(e.Graphics);
         }
         /// ---------------------------------------------------------------------------------
         private void btnSupprimerDerniere_Click(object sender, EventArgs e)
         {
-            //m_objDessin.SupprimerDerniereFigure();
+            m_objDessin.SupprimerDerniereFigure();
             panDessin.Refresh();
         }
         /// ---------------------------------------------------------------------------------
         private void btnDeplacer_Click(object sender, EventArgs e)
         {
-            //m_objDessin.Deplacer((int)numDeplacementX.Value, (int)numDeplacementY.Value);
+            m_objDessin.Deplacer((int)numDeplacementX.Value, (int)numDeplacementY.Value);
             panDessin.Refresh();
         }
         /// ---------------------------------------------------------------------------------
         private void btnAgrandir_Click(object sender, EventArgs e)
         {
-            //m_objDessin.Agrandir((int)numFacteurAgr.Value);
+            m_objDessin.Agrandir((int)numFacteurAgr.Value);
             panDessin.Refresh();
         }
         #endregion

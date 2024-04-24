@@ -69,3 +69,14 @@ C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer
 C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.csproj.CoreCompileInputs.cache
 C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.exe
 C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.pdb
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\bin\Debug\PolymorphismeFigures.exe.config
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\bin\Debug\PolymorphismeFigures.exe
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\bin\Debug\PolymorphismeFigures.pdb
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.csproj.AssemblyReference.cache
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.csproj.SuggestedBindingRedirects.cache
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.FrmPrincipal.resources
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.Properties.Resources.resources
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.csproj.GenerateResource.cache
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.csproj.CoreCompileInputs.cache
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.exe
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.pdb
