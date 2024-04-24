@@ -8,16 +8,20 @@ namespace HeritageClassique
         public double Salaire { get; set; }
 
         public Employe(string pNom, DateTime pDateDeNaissance, double pSalaire)
-            :base(pNom,pDateDeNaissance)
+            : base(pNom, pDateDeNaissance)
         {
             Salaire = pSalaire;
         }
 
-        public override string ToString()
+        public override string Infos
         {
-            string troisièmeLigne = "Salaire : " + Salaire.ToString("C0");
+            get
+            {
+                string troisièmeLigne = "Salaire : " + Salaire.ToString("C0");
 
-            return base.ToString() + troisièmeLigne;
+                return base.Infos + troisièmeLigne;
+            }
+
         }
 
     }
