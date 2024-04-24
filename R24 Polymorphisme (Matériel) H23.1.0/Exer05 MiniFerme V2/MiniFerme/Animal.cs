@@ -1,6 +1,6 @@
 ﻿namespace MiniFerme
 {
-    public class Animal
+    public abstract class Animal
     {
         #region Propriétés
         public string Nom { get; set; }
