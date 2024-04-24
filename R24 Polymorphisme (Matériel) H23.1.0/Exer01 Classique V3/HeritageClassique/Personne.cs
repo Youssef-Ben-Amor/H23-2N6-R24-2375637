@@ -13,7 +13,7 @@ namespace HeritageClassique
             DateDeNaissance = pDateDeNaissance;
         }
 
-        public override string ToString()
+        public virtual string Obtenirinfos()
         {
             string premièreLigne = "Nom : " + Nom + "\n";
             string deuxièmeLigne = "Date de naissance : " + DateDeNaissance.ToString("le d MMMM yyyy") + "\n";

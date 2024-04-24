@@ -12,11 +12,11 @@ namespace HeritageClassique
             Matricule = pMatricule;
         }
 
-        public override string ToString()
+        public override string Obtenirinfos()
         {
             string troisièmeLigne = "Matricule : " + Matricule;
 
-            return base.ToString() + troisièmeLigne;
+            return base.Obtenirinfos() + troisièmeLigne;
         }
     }
 }
