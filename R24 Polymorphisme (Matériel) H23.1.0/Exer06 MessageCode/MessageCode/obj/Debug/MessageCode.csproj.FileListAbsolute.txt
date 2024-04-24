@@ -99,3 +99,14 @@ C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer
 C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.csproj.CoreCompileInputs.cache
 C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.exe
 C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.pdb
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\bin\Debug\MessageCode.exe.config
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\bin\Debug\MessageCode.exe
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\bin\Debug\MessageCode.pdb
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.csproj.AssemblyReference.cache
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.FrmPrincipal.resources
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.Properties.Resources.resources
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.csproj.GenerateResource.cache
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.csproj.CoreCompileInputs.cache
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.exe
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.pdb

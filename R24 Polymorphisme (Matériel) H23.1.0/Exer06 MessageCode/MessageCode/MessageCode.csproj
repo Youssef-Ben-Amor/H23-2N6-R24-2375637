@@ -46,6 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include=".cs" />
+    <Compile Include="Message.cs" />
+    <Compile Include="MessageComplexe.cs" />
+    <Compile Include="MessageMoyen.cs" />
+    <Compile Include="MessageSimple.cs" />
     <Compile Include="OutilsEncodage.cs" />
     <Compile Include="FrmPrincipal.cs">
       <SubType>Form</SubType>

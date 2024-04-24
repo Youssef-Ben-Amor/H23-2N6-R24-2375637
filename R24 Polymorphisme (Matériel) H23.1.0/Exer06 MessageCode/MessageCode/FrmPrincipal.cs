@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 using System.Windows.Forms;
 
 namespace MessageCode
@@ -19,31 +19,31 @@ namespace MessageCode
 
         private void BtnEncodageSimple_Click(object sender, EventArgs e)
         {
-            //MessageSimple objMessage = new MessageSimple(txtMessageNonEncodé.Text);
-            //lstMessages.Items.Add(objMessage);
+            MessageSimple objMessage = new MessageSimple(txtMessageNonEncodé.Text);
+            lstMessages.Items.Add(objMessage);
         }
 
         private void BtnEncodageMoyen_Click(object sender, EventArgs e)
         {
-            //MessageMoyen objMessage = new MessageMoyen(txtMessageNonEncodé.Text);
-            //lstMessages.Items.Add(objMessage);
+            MessageMoyen objMessage = new MessageMoyen(txtMessageNonEncodé.Text);
+            lstMessages.Items.Add(objMessage);
         }
 
         private void BtEncodageComplexe_Click(object sender, EventArgs e)
         {
-            //MessageComplexe objMessage = new MessageComplexe(txtMessageNonEncodé.Text);
-            //lstMessages.Items.Add(objMessage);
+            MessageComplexe objMessage = new MessageComplexe(txtMessageNonEncodé.Text);
+            lstMessages.Items.Add(objMessage);
         }
 
         private void LstMessages_SelectedIndexChanged(object sender, EventArgs e)
         {
-            //if (lstMessages.SelectedIndex != -1)
-            //{
-            //    Message objMessage = (Message)lstMessages.SelectedItem;
-            //    string premièreLigne = "Message non encodé : " + objMessage.MessageNonEncodé + "\n";
-            //    string deuxièmeLigne = "Message encodé : " + objMessage.MessageEncodé;
-            //    MessageBox.Show(premièreLigne + deuxièmeLigne);
-            //}
+            if (lstMessages.SelectedIndex != -1)
+            {
+                Message objMessage = (Message)lstMessages.SelectedItem;
+                string premièreLigne = "Message non encodé : " + objMessage.MessageNonEncodé + "\n";
+                string deuxièmeLigne = "Message encodé : " + objMessage.MessageEncodé;
+                MessageBox.Show(premièreLigne + deuxièmeLigne);
+            }
         }
 
         private void MnuFichierQuitter_Click(object sender, EventArgs e)
