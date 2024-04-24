@@ -20,22 +20,25 @@ namespace HeritageClassique
         {
             Personne objPersonne = new Personne("Jean Lapointe", new DateTime(1950, 3, 6));
 
-            MessageBox.Show(objPersonne.ToString());
+            AfficherInfos(objPersonne);
         }
 
         private void BtnAfficherInfosEtudiant_Click(object sender, EventArgs e)
         {
             Etudiant objEtudiant = new Etudiant("Louise Tremblay", new DateTime(1997, 7, 22),15464332);
 
-            MessageBox.Show(objEtudiant.ToString());
+            AfficherInfos(objEtudiant);
         }
 
         private void BtnAfficherInfosEmployé_Click(object sender, EventArgs e)
         {
             Employe objEmployé = new Employe("Germain Houde", new DateTime(1976, 1, 17), 55400);
 
-            MessageBox.Show(objEmployé.ToString());
+            AfficherInfos(objEmployé);
         }
-       
+        private void AfficherInfos(Personne pPersonne)
+        {
+            MessageBox.Show(pPersonne.ToString());
+        }
     }
 }
