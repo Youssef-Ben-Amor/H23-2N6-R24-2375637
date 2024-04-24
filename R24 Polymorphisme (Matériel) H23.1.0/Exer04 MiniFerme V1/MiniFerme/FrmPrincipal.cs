@@ -22,33 +22,33 @@ namespace MiniFerme
         {
             InitializeComponent();
 
-            // On va créer les 3 chevaux et les ajouter dans lstAnimaux
-            //Cheval objCheval1 = new Cheval("Twix", 652, 125);
-            //Cheval objCheval2 = new Cheval("Tornade", 735, 100);
-            //Cheval objCheval3 = new Cheval("Lucky", 444, 200);
+            //On va créer les 3 chevaux et les ajouter dans lstAnimaux
+            Cheval objCheval1 = new Cheval("Twix", 652, 125);
+            Cheval objCheval2 = new Cheval("Tornade", 735, 100);
+            Cheval objCheval3 = new Cheval("Lucky", 444, 200);
 
 
-            //lstAnimaux.Items.Add(objCheval1);
-            //lstAnimaux.Items.Add(objCheval2);
-            //lstAnimaux.Items.Add(objCheval3);
+            lstAnimaux.Items.Add(objCheval1);
+            lstAnimaux.Items.Add(objCheval2);
+            lstAnimaux.Items.Add(objCheval3);
 
-            //// on va créer les 2 chiens...
-            //Chien objChien1 = new Chien("Rex", 40, enuStyleDeChien.Garde);
-            //Chien objChien2 = new Chien("Goofy", 16, enuStyleDeChien.Compagnie);
+            // on va créer les 2 chiens...
+            Chien objChien1 = new Chien("Rex", 40, enuStyleDeChien.Garde);
+            Chien objChien2 = new Chien("Goofy", 16, enuStyleDeChien.Compagnie);
 
-            //lstAnimaux.Items.Add(objChien1);
-            //lstAnimaux.Items.Add(objChien2);
+            lstAnimaux.Items.Add(objChien1);
+            lstAnimaux.Items.Add(objChien2);
 
-            //// on va créer les 4 vaches...
-            //Vache objVache1 = new Vache("Margot", 775, 26);
-            //Vache objVache2 = new Vache("Betty", 786, 23.5);
-            //Vache objVache3 = new Vache("Rosette", 752, 20);
-            //Vache objVache4 = new Vache("Réglisse", 790, 24);
+            // on va créer les 4 vaches...
+            Vache objVache1 = new Vache("Margot", 775, 26);
+            Vache objVache2 = new Vache("Betty", 786, 23.5);
+            Vache objVache3 = new Vache("Rosette", 752, 20);
+            Vache objVache4 = new Vache("Réglisse", 790, 24);
 
-            //lstAnimaux.Items.Add(objVache1);
-            //lstAnimaux.Items.Add(objVache2);
-            //lstAnimaux.Items.Add(objVache3);
-            //lstAnimaux.Items.Add(objVache4);
+            lstAnimaux.Items.Add(objVache1);
+            lstAnimaux.Items.Add(objVache2);
+            lstAnimaux.Items.Add(objVache3);
+            lstAnimaux.Items.Add(objVache4);
         }
 
         private void MnuFichierQuitter_Click(object sender, EventArgs e)
@@ -58,10 +58,26 @@ namespace MiniFerme
 
         private void LstAnimaux_SelectedIndexChanged(object sender, EventArgs e)
         {
+            if(lstAnimaux.SelectedIndex != -1)
+            {
+                Animal animal = (Animal)lstAnimaux.SelectedItem;
+                MessageBox.Show(animal.Infos);
+            }
         }
 
         private void BtnMélanger_Click(object sender, EventArgs e)
         {
+            lstAnimaux.SelectedIndex = -1;
+            Random random= new Random();
+            for(int i = 0; i < lstAnimaux.Items.Count; i++)
+            {
+                int a=random.Next(0,lstAnimaux.Items.Count);
+                int b = random.Next(0, lstAnimaux.Items.Count);
+                Animal animals = (Animal)lstAnimaux.Items[a];
+                lstAnimaux.Items[a] = lstAnimaux.Items[b];
+                lstAnimaux.Items[b] = animals;
+
+            }
         }
     }
 }

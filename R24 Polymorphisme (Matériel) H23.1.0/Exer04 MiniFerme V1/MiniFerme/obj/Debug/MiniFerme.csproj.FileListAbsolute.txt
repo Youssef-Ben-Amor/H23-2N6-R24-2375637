@@ -59,3 +59,14 @@ C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer
 C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer04 MiniFerme V1\MiniFerme\obj\Debug\MiniFerme.csproj.CoreCompileInputs.cache
 C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer04 MiniFerme V1\MiniFerme\obj\Debug\MiniFerme.exe
 C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer04 MiniFerme V1\MiniFerme\obj\Debug\MiniFerme.pdb
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer04 MiniFerme V1\MiniFerme\obj\Debug\MiniFerme.csproj.AssemblyReference.cache
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer04 MiniFerme V1\MiniFerme\obj\Debug\MiniFerme.csproj.SuggestedBindingRedirects.cache
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer04 MiniFerme V1\MiniFerme\obj\Debug\MiniFerme.FrmPrincipal.resources
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer04 MiniFerme V1\MiniFerme\obj\Debug\MiniFerme.Properties.Resources.resources
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer04 MiniFerme V1\MiniFerme\obj\Debug\MiniFerme.csproj.GenerateResource.cache
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer04 MiniFerme V1\MiniFerme\obj\Debug\MiniFerme.csproj.CoreCompileInputs.cache
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer04 MiniFerme V1\MiniFerme\obj\Debug\MiniFerme.exe
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer04 MiniFerme V1\MiniFerme\obj\Debug\MiniFerme.pdb
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer04 MiniFerme V1\MiniFerme\bin\Debug\MiniFerme.exe.config
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer04 MiniFerme V1\MiniFerme\bin\Debug\MiniFerme.exe
+C:\Users\2375637\Desktop\H23-2N6-R24-2375637\R24 Polymorphisme (Matériel) H23.1.0\Exer04 MiniFerme V1\MiniFerme\bin\Debug\MiniFerme.pdb
