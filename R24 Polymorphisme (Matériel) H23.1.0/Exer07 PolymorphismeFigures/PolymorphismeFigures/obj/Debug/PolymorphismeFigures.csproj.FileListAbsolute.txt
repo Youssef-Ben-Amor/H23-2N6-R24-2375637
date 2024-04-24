@@ -1,0 +1,71 @@
+C:\EspaceLabo\R20 Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\bin\Debug\Exem3Polymorphisme.exe.config
+C:\EspaceLabo\R20 Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\bin\Debug\Exem3Polymorphisme.exe
+C:\EspaceLabo\R20 Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\bin\Debug\Exem3Polymorphisme.pdb
+C:\EspaceLabo\R20 Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\PolymorphismeFigures.csprojAssemblyReference.cache
+C:\EspaceLabo\R20 Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.FrmPrincipal.resources
+C:\EspaceLabo\R20 Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.Properties.Resources.resources
+C:\EspaceLabo\R20 Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\PolymorphismeFigures.csproj.GenerateResource.cache
+C:\EspaceLabo\R20 Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\PolymorphismeFigures.csproj.CoreCompileInputs.cache
+C:\EspaceLabo\R20 Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.exe
+C:\EspaceLabo\R20 Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.pdb
+C:\EspaceLabo\R20 Polymorphisme\Exer03 PolymorphismeFigures (Solution) H20.1.0\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.csprojAssemblyReference.cache
+C:\EspaceLabo\R20 Polymorphisme\Exer03 PolymorphismeFigures (Solution) H20.1.0\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.FrmPrincipal.resources
+C:\EspaceLabo\R20 Polymorphisme\Exer03 PolymorphismeFigures (Solution) H20.1.0\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.csproj.GenerateResource.cache
+C:\EspaceLabo\R20 Polymorphisme\Exer03 PolymorphismeFigures (Solution) H20.1.0\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.csproj.CoreCompileInputs.cache
+C:\EspaceLabo\R20 Polymorphisme\Exer03 PolymorphismeFigures (Solution) H20.1.0\PolymorphismeFigures\bin\Debug\PolymorphismeFigures.exe.config
+C:\EspaceLabo\R20 Polymorphisme\Exer03 PolymorphismeFigures (Solution) H20.1.0\PolymorphismeFigures\bin\Debug\PolymorphismeFigures.exe
+C:\EspaceLabo\R20 Polymorphisme\Exer03 PolymorphismeFigures (Solution) H20.1.0\PolymorphismeFigures\bin\Debug\PolymorphismeFigures.pdb
+C:\EspaceLabo\R20 Polymorphisme\Exer03 PolymorphismeFigures (Solution) H20.1.0\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.Properties.Resources.resources
+C:\EspaceLabo\R20 Polymorphisme\Exer03 PolymorphismeFigures (Solution) H20.1.0\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.exe
+C:\EspaceLabo\R20 Polymorphisme\Exer03 PolymorphismeFigures (Solution) H20.1.0\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.pdb
+C:\EspaceLabo\R20 Polymorphisme\Exer06 PolymorphismeFigures (Solution) H20.1.0\PolymorphismeFigures\bin\Debug\PolymorphismeFigures.exe.config
+C:\EspaceLabo\R20 Polymorphisme\Exer06 PolymorphismeFigures (Solution) H20.1.0\PolymorphismeFigures\bin\Debug\PolymorphismeFigures.exe
+C:\EspaceLabo\R20 Polymorphisme\Exer06 PolymorphismeFigures (Solution) H20.1.0\PolymorphismeFigures\bin\Debug\PolymorphismeFigures.pdb
+C:\EspaceLabo\R20 Polymorphisme\Exer06 PolymorphismeFigures (Solution) H20.1.0\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.csprojAssemblyReference.cache
+C:\EspaceLabo\R20 Polymorphisme\Exer06 PolymorphismeFigures (Solution) H20.1.0\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.FrmPrincipal.resources
+C:\EspaceLabo\R20 Polymorphisme\Exer06 PolymorphismeFigures (Solution) H20.1.0\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.Properties.Resources.resources
+C:\EspaceLabo\R20 Polymorphisme\Exer06 PolymorphismeFigures (Solution) H20.1.0\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.csproj.GenerateResource.cache
+C:\EspaceLabo\R20 Polymorphisme\Exer06 PolymorphismeFigures (Solution) H20.1.0\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.csproj.CoreCompileInputs.cache
+C:\EspaceLabo\R20 Polymorphisme\Exer06 PolymorphismeFigures (Solution) H20.1.0\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.exe
+C:\EspaceLabo\R20 Polymorphisme\Exer06 PolymorphismeFigures (Solution) H20.1.0\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.pdb
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer06 PolymorphismeFigures (Matériel) H20.1.0\PolymorphismeFigures\bin\Debug\PolymorphismeFigures.exe.config
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer06 PolymorphismeFigures (Matériel) H20.1.0\PolymorphismeFigures\bin\Debug\PolymorphismeFigures.exe
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer06 PolymorphismeFigures (Matériel) H20.1.0\PolymorphismeFigures\bin\Debug\PolymorphismeFigures.pdb
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer06 PolymorphismeFigures (Matériel) H20.1.0\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.csprojAssemblyReference.cache
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer06 PolymorphismeFigures (Matériel) H20.1.0\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.FrmPrincipal.resources
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer06 PolymorphismeFigures (Matériel) H20.1.0\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.Properties.Resources.resources
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer06 PolymorphismeFigures (Matériel) H20.1.0\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.csproj.GenerateResource.cache
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer06 PolymorphismeFigures (Matériel) H20.1.0\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.csproj.CoreCompileInputs.cache
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer06 PolymorphismeFigures (Matériel) H20.1.0\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.exe
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer06 PolymorphismeFigures (Matériel) H20.1.0\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.pdb
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer06 PolymorphismeFigures\PolymorphismeFigures\bin\Debug\PolymorphismeFigures.exe.config
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer06 PolymorphismeFigures\PolymorphismeFigures\bin\Debug\PolymorphismeFigures.exe
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer06 PolymorphismeFigures\PolymorphismeFigures\bin\Debug\PolymorphismeFigures.pdb
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer06 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer06 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer06 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer06 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer06 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer06 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.exe
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer06 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.pdb
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\bin\Debug\PolymorphismeFigures.exe.config
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\bin\Debug\PolymorphismeFigures.exe
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\bin\Debug\PolymorphismeFigures.pdb
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.exe
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.pdb
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\bin\Debug\PolymorphismeFigures.exe.config
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\bin\Debug\PolymorphismeFigures.exe
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\bin\Debug\PolymorphismeFigures.pdb
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.csproj.SuggestedBindingRedirects.cache
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.exe
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer07 PolymorphismeFigures\PolymorphismeFigures\obj\Debug\PolymorphismeFigures.pdb

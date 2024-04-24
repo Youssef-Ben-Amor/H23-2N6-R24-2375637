@@ -1,0 +1,101 @@
+C:\Users\stephane.desmeules\source\repos\MessageCode\MessageCode\bin\Debug\MessageCode.exe.config
+C:\Users\stephane.desmeules\source\repos\MessageCode\MessageCode\bin\Debug\MessageCode.exe
+C:\Users\stephane.desmeules\source\repos\MessageCode\MessageCode\bin\Debug\MessageCode.pdb
+C:\Users\stephane.desmeules\source\repos\MessageCode\MessageCode\obj\Debug\MessageCode.csprojAssemblyReference.cache
+C:\Users\stephane.desmeules\source\repos\MessageCode\MessageCode\obj\Debug\MessageCode.FrmPrincipal.resources
+C:\Users\stephane.desmeules\source\repos\MessageCode\MessageCode\obj\Debug\MessageCode.Properties.Resources.resources
+C:\Users\stephane.desmeules\source\repos\MessageCode\MessageCode\obj\Debug\MessageCode.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\source\repos\MessageCode\MessageCode\obj\Debug\MessageCode.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\source\repos\MessageCode\MessageCode\obj\Debug\MessageCode.exe
+C:\Users\stephane.desmeules\source\repos\MessageCode\MessageCode\obj\Debug\MessageCode.pdb
+C:\EspaceLabo\R20 Polymorphisme\ExerXX MessageCode (Solution) H20.1.0\MessageCode\bin\Debug\MessageCode.exe.config
+C:\EspaceLabo\R20 Polymorphisme\ExerXX MessageCode (Solution) H20.1.0\MessageCode\bin\Debug\MessageCode.exe
+C:\EspaceLabo\R20 Polymorphisme\ExerXX MessageCode (Solution) H20.1.0\MessageCode\bin\Debug\MessageCode.pdb
+C:\EspaceLabo\R20 Polymorphisme\ExerXX MessageCode (Solution) H20.1.0\MessageCode\obj\Debug\MessageCode.csprojAssemblyReference.cache
+C:\EspaceLabo\R20 Polymorphisme\ExerXX MessageCode (Solution) H20.1.0\MessageCode\obj\Debug\MessageCode.FrmPrincipal.resources
+C:\EspaceLabo\R20 Polymorphisme\ExerXX MessageCode (Solution) H20.1.0\MessageCode\obj\Debug\MessageCode.Properties.Resources.resources
+C:\EspaceLabo\R20 Polymorphisme\ExerXX MessageCode (Solution) H20.1.0\MessageCode\obj\Debug\MessageCode.csproj.GenerateResource.cache
+C:\EspaceLabo\R20 Polymorphisme\ExerXX MessageCode (Solution) H20.1.0\MessageCode\obj\Debug\MessageCode.csproj.CoreCompileInputs.cache
+C:\EspaceLabo\R20 Polymorphisme\ExerXX MessageCode (Solution) H20.1.0\MessageCode\obj\Debug\MessageCode.exe
+C:\EspaceLabo\R20 Polymorphisme\ExerXX MessageCode (Solution) H20.1.0\MessageCode\obj\Debug\MessageCode.pdb
+C:\EspaceLabo\R20 Polymorphisme\ExerXX MessageCode (Solution) H20.0.9\MessageCode\bin\Debug\MessageCode.exe.config
+C:\EspaceLabo\R20 Polymorphisme\ExerXX MessageCode (Solution) H20.0.9\MessageCode\bin\Debug\MessageCode.exe
+C:\EspaceLabo\R20 Polymorphisme\ExerXX MessageCode (Solution) H20.0.9\MessageCode\bin\Debug\MessageCode.pdb
+C:\EspaceLabo\R20 Polymorphisme\ExerXX MessageCode (Solution) H20.0.9\MessageCode\obj\Debug\MessageCode.csprojAssemblyReference.cache
+C:\EspaceLabo\R20 Polymorphisme\ExerXX MessageCode (Solution) H20.0.9\MessageCode\obj\Debug\MessageCode.FrmPrincipal.resources
+C:\EspaceLabo\R20 Polymorphisme\ExerXX MessageCode (Solution) H20.0.9\MessageCode\obj\Debug\MessageCode.Properties.Resources.resources
+C:\EspaceLabo\R20 Polymorphisme\ExerXX MessageCode (Solution) H20.0.9\MessageCode\obj\Debug\MessageCode.csproj.GenerateResource.cache
+C:\EspaceLabo\R20 Polymorphisme\ExerXX MessageCode (Solution) H20.0.9\MessageCode\obj\Debug\MessageCode.csproj.CoreCompileInputs.cache
+C:\EspaceLabo\R20 Polymorphisme\ExerXX MessageCode (Solution) H20.0.9\MessageCode\obj\Debug\MessageCode.exe
+C:\EspaceLabo\R20 Polymorphisme\ExerXX MessageCode (Solution) H20.0.9\MessageCode\obj\Debug\MessageCode.pdb
+C:\EspaceLabo\R20 Polymorphisme\Exer04 MessageCode (Solution) H20.0.9\MessageCode\bin\Debug\MessageCode.exe.config
+C:\EspaceLabo\R20 Polymorphisme\Exer04 MessageCode (Solution) H20.0.9\MessageCode\bin\Debug\MessageCode.exe
+C:\EspaceLabo\R20 Polymorphisme\Exer04 MessageCode (Solution) H20.0.9\MessageCode\bin\Debug\MessageCode.pdb
+C:\EspaceLabo\R20 Polymorphisme\Exer04 MessageCode (Solution) H20.0.9\MessageCode\obj\Debug\MessageCode.csprojAssemblyReference.cache
+C:\EspaceLabo\R20 Polymorphisme\Exer04 MessageCode (Solution) H20.0.9\MessageCode\obj\Debug\MessageCode.FrmPrincipal.resources
+C:\EspaceLabo\R20 Polymorphisme\Exer04 MessageCode (Solution) H20.0.9\MessageCode\obj\Debug\MessageCode.Properties.Resources.resources
+C:\EspaceLabo\R20 Polymorphisme\Exer04 MessageCode (Solution) H20.0.9\MessageCode\obj\Debug\MessageCode.csproj.GenerateResource.cache
+C:\EspaceLabo\R20 Polymorphisme\Exer04 MessageCode (Solution) H20.0.9\MessageCode\obj\Debug\MessageCode.csproj.CoreCompileInputs.cache
+C:\EspaceLabo\R20 Polymorphisme\Exer04 MessageCode (Solution) H20.0.9\MessageCode\obj\Debug\MessageCode.exe
+C:\EspaceLabo\R20 Polymorphisme\Exer04 MessageCode (Solution) H20.0.9\MessageCode\obj\Debug\MessageCode.pdb
+C:\EspaceLabo\R20 Polymorphisme\Exer04 MessageCode (Solution) H20.1.0\MessageCode\bin\Debug\MessageCode.exe.config
+C:\EspaceLabo\R20 Polymorphisme\Exer04 MessageCode (Solution) H20.1.0\MessageCode\bin\Debug\MessageCode.exe
+C:\EspaceLabo\R20 Polymorphisme\Exer04 MessageCode (Solution) H20.1.0\MessageCode\bin\Debug\MessageCode.pdb
+C:\EspaceLabo\R20 Polymorphisme\Exer04 MessageCode (Solution) H20.1.0\MessageCode\obj\Debug\MessageCode.csprojAssemblyReference.cache
+C:\EspaceLabo\R20 Polymorphisme\Exer04 MessageCode (Solution) H20.1.0\MessageCode\obj\Debug\MessageCode.FrmPrincipal.resources
+C:\EspaceLabo\R20 Polymorphisme\Exer04 MessageCode (Solution) H20.1.0\MessageCode\obj\Debug\MessageCode.Properties.Resources.resources
+C:\EspaceLabo\R20 Polymorphisme\Exer04 MessageCode (Solution) H20.1.0\MessageCode\obj\Debug\MessageCode.csproj.GenerateResource.cache
+C:\EspaceLabo\R20 Polymorphisme\Exer04 MessageCode (Solution) H20.1.0\MessageCode\obj\Debug\MessageCode.csproj.CoreCompileInputs.cache
+C:\EspaceLabo\R20 Polymorphisme\Exer04 MessageCode (Solution) H20.1.0\MessageCode\obj\Debug\MessageCode.exe
+C:\EspaceLabo\R20 Polymorphisme\Exer04 MessageCode (Solution) H20.1.0\MessageCode\obj\Debug\MessageCode.pdb
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer04 MessageCode (Solution) H20.1.0\MessageCode\obj\Debug\MessageCode.csprojAssemblyReference.cache
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer04 MessageCode (Solution) H20.1.0\MessageCode\obj\Debug\MessageCode.FrmPrincipal.resources
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer04 MessageCode (Solution) H20.1.0\MessageCode\obj\Debug\MessageCode.Properties.Resources.resources
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer04 MessageCode (Solution) H20.1.0\MessageCode\obj\Debug\MessageCode.csproj.GenerateResource.cache
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer04 MessageCode (Solution) H20.1.0\MessageCode\obj\Debug\MessageCode.csproj.CoreCompileInputs.cache
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer04 MessageCode (Solution) H20.1.0\MessageCode\obj\Debug\MessageCode.exe
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer04 MessageCode (Solution) H20.1.0\MessageCode\obj\Debug\MessageCode.pdb
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer04 MessageCode (Solution) H20.1.0\MessageCode\bin\Debug\MessageCode.exe.config
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer04 MessageCode (Solution) H20.1.0\MessageCode\bin\Debug\MessageCode.exe
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer04 MessageCode (Solution) H20.1.0\MessageCode\bin\Debug\MessageCode.pdb
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer04 MessageCode (Matériel) H20.1.0\MessageCode\bin\Debug\MessageCode.exe.config
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer04 MessageCode (Matériel) H20.1.0\MessageCode\bin\Debug\MessageCode.exe
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer04 MessageCode (Matériel) H20.1.0\MessageCode\bin\Debug\MessageCode.pdb
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer04 MessageCode (Matériel) H20.1.0\MessageCode\obj\Debug\MessageCode.csprojAssemblyReference.cache
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer04 MessageCode (Matériel) H20.1.0\MessageCode\obj\Debug\MessageCode.FrmPrincipal.resources
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer04 MessageCode (Matériel) H20.1.0\MessageCode\obj\Debug\MessageCode.Properties.Resources.resources
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer04 MessageCode (Matériel) H20.1.0\MessageCode\obj\Debug\MessageCode.csproj.GenerateResource.cache
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer04 MessageCode (Matériel) H20.1.0\MessageCode\obj\Debug\MessageCode.csproj.CoreCompileInputs.cache
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer04 MessageCode (Matériel) H20.1.0\MessageCode\obj\Debug\MessageCode.exe
+C:\EspaceLabo\R20 Polymorphisme\_En onde\Exer04 MessageCode (Matériel) H20.1.0\MessageCode\obj\Debug\MessageCode.pdb
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer05 MessageCode\MessageCode\bin\Debug\MessageCode.exe.config
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer05 MessageCode\MessageCode\bin\Debug\MessageCode.exe
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer05 MessageCode\MessageCode\bin\Debug\MessageCode.pdb
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer05 MessageCode\MessageCode\obj\Debug\MessageCode.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer05 MessageCode\MessageCode\obj\Debug\MessageCode.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer05 MessageCode\MessageCode\obj\Debug\MessageCode.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer05 MessageCode\MessageCode\obj\Debug\MessageCode.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer05 MessageCode\MessageCode\obj\Debug\MessageCode.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer05 MessageCode\MessageCode\obj\Debug\MessageCode.exe
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer05 MessageCode\MessageCode\obj\Debug\MessageCode.pdb
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer06 MessageCode\MessageCode\bin\Debug\MessageCode.exe.config
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer06 MessageCode\MessageCode\bin\Debug\MessageCode.exe
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer06 MessageCode\MessageCode\bin\Debug\MessageCode.pdb
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.exe
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.pdb
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\bin\Debug\MessageCode.exe.config
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\bin\Debug\MessageCode.exe
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\bin\Debug\MessageCode.pdb
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.exe
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer06 MessageCode\MessageCode\obj\Debug\MessageCode.pdb

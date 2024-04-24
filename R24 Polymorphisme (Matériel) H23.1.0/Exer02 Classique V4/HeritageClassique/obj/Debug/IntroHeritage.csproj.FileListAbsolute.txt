@@ -1,0 +1,10 @@
+C:\EspaceLabo\R19 Héritage\IntroHeritage\IntroHeritage\bin\Debug\IntroHeritage.exe.config
+C:\EspaceLabo\R19 Héritage\IntroHeritage\IntroHeritage\bin\Debug\IntroHeritage.exe
+C:\EspaceLabo\R19 Héritage\IntroHeritage\IntroHeritage\bin\Debug\IntroHeritage.pdb
+C:\EspaceLabo\R19 Héritage\IntroHeritage\IntroHeritage\obj\Debug\IntroHeritage.csprojAssemblyReference.cache
+C:\EspaceLabo\R19 Héritage\IntroHeritage\IntroHeritage\obj\Debug\IntroHeritage.FrmPrincipal.resources
+C:\EspaceLabo\R19 Héritage\IntroHeritage\IntroHeritage\obj\Debug\IntroHeritage.Properties.Resources.resources
+C:\EspaceLabo\R19 Héritage\IntroHeritage\IntroHeritage\obj\Debug\IntroHeritage.csproj.GenerateResource.cache
+C:\EspaceLabo\R19 Héritage\IntroHeritage\IntroHeritage\obj\Debug\IntroHeritage.csproj.CoreCompileInputs.cache
+C:\EspaceLabo\R19 Héritage\IntroHeritage\IntroHeritage\obj\Debug\IntroHeritage.exe
+C:\EspaceLabo\R19 Héritage\IntroHeritage\IntroHeritage\obj\Debug\IntroHeritage.pdb

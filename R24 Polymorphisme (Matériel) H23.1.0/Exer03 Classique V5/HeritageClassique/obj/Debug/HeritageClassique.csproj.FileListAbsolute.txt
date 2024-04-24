@@ -1,0 +1,61 @@
+C:\EspaceLabo\R19 Héritage (Solution) H20.1.0\_En onde\Exer02 Classique V1 (Solution) H20.1.0\HeritageClassique\bin\Debug\HeritageClassique.exe.config
+C:\EspaceLabo\R19 Héritage (Solution) H20.1.0\_En onde\Exer02 Classique V1 (Solution) H20.1.0\HeritageClassique\bin\Debug\HeritageClassique.exe
+C:\EspaceLabo\R19 Héritage (Solution) H20.1.0\_En onde\Exer02 Classique V1 (Solution) H20.1.0\HeritageClassique\bin\Debug\HeritageClassique.pdb
+C:\EspaceLabo\R19 Héritage (Solution) H20.1.0\_En onde\Exer02 Classique V1 (Solution) H20.1.0\HeritageClassique\obj\Debug\HeritageClassique.csprojAssemblyReference.cache
+C:\EspaceLabo\R19 Héritage (Solution) H20.1.0\_En onde\Exer02 Classique V1 (Solution) H20.1.0\HeritageClassique\obj\Debug\HeritageClassique.Properties.Resources.resources
+C:\EspaceLabo\R19 Héritage (Solution) H20.1.0\_En onde\Exer02 Classique V1 (Solution) H20.1.0\HeritageClassique\obj\Debug\HeritageClassique.csproj.GenerateResource.cache
+C:\EspaceLabo\R19 Héritage (Solution) H20.1.0\_En onde\Exer02 Classique V1 (Solution) H20.1.0\HeritageClassique\obj\Debug\HeritageClassique.csproj.CoreCompileInputs.cache
+C:\EspaceLabo\R19 Héritage (Solution) H20.1.0\_En onde\Exer02 Classique V1 (Solution) H20.1.0\HeritageClassique\obj\Debug\HeritageClassique.exe
+C:\EspaceLabo\R19 Héritage (Solution) H20.1.0\_En onde\Exer02 Classique V1 (Solution) H20.1.0\HeritageClassique\obj\Debug\HeritageClassique.pdb
+C:\EspaceLabo\R19 Héritage (Solution) H20.1.0\_En onde\Exer02 Classique V1 (Solution) H20.1.0\HeritageClassique\obj\Debug\HeritageClassique.FrmPrincipal.resources
+C:\EspaceLabo\R19 Héritage (Solution) H20.1.0\_En onde\Exer02 Classique V2 (Solution) H20.1.0\HeritageClassique\bin\Debug\HeritageClassique.exe.config
+C:\EspaceLabo\R19 Héritage (Solution) H20.1.0\_En onde\Exer02 Classique V2 (Solution) H20.1.0\HeritageClassique\bin\Debug\HeritageClassique.exe
+C:\EspaceLabo\R19 Héritage (Solution) H20.1.0\_En onde\Exer02 Classique V2 (Solution) H20.1.0\HeritageClassique\bin\Debug\HeritageClassique.pdb
+C:\EspaceLabo\R19 Héritage (Solution) H20.1.0\_En onde\Exer02 Classique V2 (Solution) H20.1.0\HeritageClassique\obj\Debug\HeritageClassique.csprojAssemblyReference.cache
+C:\EspaceLabo\R19 Héritage (Solution) H20.1.0\_En onde\Exer02 Classique V2 (Solution) H20.1.0\HeritageClassique\obj\Debug\HeritageClassique.FrmPrincipal.resources
+C:\EspaceLabo\R19 Héritage (Solution) H20.1.0\_En onde\Exer02 Classique V2 (Solution) H20.1.0\HeritageClassique\obj\Debug\HeritageClassique.Properties.Resources.resources
+C:\EspaceLabo\R19 Héritage (Solution) H20.1.0\_En onde\Exer02 Classique V2 (Solution) H20.1.0\HeritageClassique\obj\Debug\HeritageClassique.csproj.GenerateResource.cache
+C:\EspaceLabo\R19 Héritage (Solution) H20.1.0\_En onde\Exer02 Classique V2 (Solution) H20.1.0\HeritageClassique\obj\Debug\HeritageClassique.csproj.CoreCompileInputs.cache
+C:\EspaceLabo\R19 Héritage (Solution) H20.1.0\_En onde\Exer02 Classique V2 (Solution) H20.1.0\HeritageClassique\obj\Debug\HeritageClassique.exe
+C:\EspaceLabo\R19 Héritage (Solution) H20.1.0\_En onde\Exer02 Classique V2 (Solution) H20.1.0\HeritageClassique\obj\Debug\HeritageClassique.pdb
+C:\EspaceLabo\R20 Polymorphisme\Exer01 Classique V3 (Matériel) H20.1.0\HeritageClassique\bin\Debug\HeritageClassique.exe.config
+C:\EspaceLabo\R20 Polymorphisme\Exer01 Classique V3 (Matériel) H20.1.0\HeritageClassique\bin\Debug\HeritageClassique.exe
+C:\EspaceLabo\R20 Polymorphisme\Exer01 Classique V3 (Matériel) H20.1.0\HeritageClassique\bin\Debug\HeritageClassique.pdb
+C:\EspaceLabo\R20 Polymorphisme\Exer01 Classique V3 (Matériel) H20.1.0\HeritageClassique\obj\Debug\HeritageClassique.csprojAssemblyReference.cache
+C:\EspaceLabo\R20 Polymorphisme\Exer01 Classique V3 (Matériel) H20.1.0\HeritageClassique\obj\Debug\HeritageClassique.FrmPrincipal.resources
+C:\EspaceLabo\R20 Polymorphisme\Exer01 Classique V3 (Matériel) H20.1.0\HeritageClassique\obj\Debug\HeritageClassique.Properties.Resources.resources
+C:\EspaceLabo\R20 Polymorphisme\Exer01 Classique V3 (Matériel) H20.1.0\HeritageClassique\obj\Debug\HeritageClassique.csproj.GenerateResource.cache
+C:\EspaceLabo\R20 Polymorphisme\Exer01 Classique V3 (Matériel) H20.1.0\HeritageClassique\obj\Debug\HeritageClassique.csproj.CoreCompileInputs.cache
+C:\EspaceLabo\R20 Polymorphisme\Exer01 Classique V3 (Matériel) H20.1.0\HeritageClassique\obj\Debug\HeritageClassique.exe
+C:\EspaceLabo\R20 Polymorphisme\Exer01 Classique V3 (Matériel) H20.1.0\HeritageClassique\obj\Debug\HeritageClassique.pdb
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer01 Classique V3\HeritageClassique\bin\Debug\HeritageClassique.exe.config
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer01 Classique V3\HeritageClassique\bin\Debug\HeritageClassique.exe
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer01 Classique V3\HeritageClassique\bin\Debug\HeritageClassique.pdb
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer01 Classique V3\HeritageClassique\obj\Debug\HeritageClassique.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer01 Classique V3\HeritageClassique\obj\Debug\HeritageClassique.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer01 Classique V3\HeritageClassique\obj\Debug\HeritageClassique.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer01 Classique V3\HeritageClassique\obj\Debug\HeritageClassique.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer01 Classique V3\HeritageClassique\obj\Debug\HeritageClassique.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer01 Classique V3\HeritageClassique\obj\Debug\HeritageClassique.exe
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.0.0\Exer01 Classique V3\HeritageClassique\obj\Debug\HeritageClassique.pdb
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer03 Classique V5\HeritageClassique\bin\Debug\HeritageClassique.exe.config
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer03 Classique V5\HeritageClassique\bin\Debug\HeritageClassique.exe
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer03 Classique V5\HeritageClassique\bin\Debug\HeritageClassique.pdb
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer03 Classique V5\HeritageClassique\obj\Debug\HeritageClassique.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer03 Classique V5\HeritageClassique\obj\Debug\HeritageClassique.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer03 Classique V5\HeritageClassique\obj\Debug\HeritageClassique.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer03 Classique V5\HeritageClassique\obj\Debug\HeritageClassique.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer03 Classique V5\HeritageClassique\obj\Debug\HeritageClassique.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer03 Classique V5\HeritageClassique\obj\Debug\HeritageClassique.exe
+J:\H21 2N6 Les Capsules\R23 Polymorhpisme\_Code C#\R23 Polymorphisme (Matériel) H21.2.0\Exer03 Classique V5\HeritageClassique\obj\Debug\HeritageClassique.pdb
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer03 Classique V5\HeritageClassique\bin\Debug\HeritageClassique.exe.config
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer03 Classique V5\HeritageClassique\bin\Debug\HeritageClassique.exe
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer03 Classique V5\HeritageClassique\bin\Debug\HeritageClassique.pdb
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer03 Classique V5\HeritageClassique\obj\Debug\HeritageClassique.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer03 Classique V5\HeritageClassique\obj\Debug\HeritageClassique.csproj.SuggestedBindingRedirects.cache
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer03 Classique V5\HeritageClassique\obj\Debug\HeritageClassique.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer03 Classique V5\HeritageClassique\obj\Debug\HeritageClassique.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer03 Classique V5\HeritageClassique\obj\Debug\HeritageClassique.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer03 Classique V5\HeritageClassique\obj\Debug\HeritageClassique.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer03 Classique V5\HeritageClassique\obj\Debug\HeritageClassique.exe
+C:\Users\stephane.desmeules\Downloads\R24 Polymorphisme (Matériel) H23.1.0\Exer03 Classique V5\HeritageClassique\obj\Debug\HeritageClassique.pdb

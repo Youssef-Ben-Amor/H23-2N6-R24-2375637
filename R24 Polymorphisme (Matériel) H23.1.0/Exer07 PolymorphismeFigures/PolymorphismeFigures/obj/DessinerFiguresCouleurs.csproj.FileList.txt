@@ -1,0 +1,8 @@
+bin\Debug\DessinerFiguresCouleurs.exe
+bin\Debug\DessinerFiguresCouleurs.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DessinerFigures.Properties.Resources.resources
+obj\Debug\DessinerFiguresCouleurs.csproj.GenerateResource.Cache
+obj\Debug\DessinerFiguresCouleurs.exe
+obj\Debug\DessinerFiguresCouleurs.pdb
+obj\Debug\DessinerFigures.FrmPrincipal.resources

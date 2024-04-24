@@ -1,0 +1,8 @@
+bin\Debug\DessinerFigures.exe
+bin\Debug\DessinerFigures.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DessinerFigures.Form1.resources
+obj\Debug\DessinerFigures.Properties.Resources.resources
+obj\Debug\DessinerFigures.csproj.GenerateResource.Cache
+obj\Debug\DessinerFigures.exe
+obj\Debug\DessinerFigures.pdb

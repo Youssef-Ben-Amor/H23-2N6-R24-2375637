@@ -1,0 +1,10 @@
+E:\_Cours 315 A08\Module #2 (Sem 6 à 10)\Matériel\Sol_Exercices_DessinerFigures\DessinerFigures\obj\Debug\DessinerFiguresCouleurs.exe
+E:\_Cours 315 A08\Module #2 (Sem 6 à 10)\Matériel\Sol_Exercices_DessinerFigures\DessinerFigures\obj\Debug\DessinerFiguresCouleurs.pdb
+E:\_Cours 315 A08\Module #2 (Sem 6 à 10)\Matériel\Sol_Exercices_DessinerFigures\DessinerFigures\bin\Debug\DessinerFiguresCouleurs.exe
+E:\_Cours 315 A08\Module #2 (Sem 6 à 10)\Matériel\Sol_Exercices_DessinerFigures\DessinerFigures\bin\Debug\DessinerFiguresCouleurs.pdb
+E:\_Cours 315 A08\Module #2 (Sem 6 à 10)\Matériel\Sol_Exercices_DessinerFigures\DessinerFigures\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 315 A08\Module #2 (Sem 6 à 10)\Matériel\Sol_Exercices_DessinerFigures\DessinerFigures\obj\Debug\DessinerFigures.FrmPrincipal.resources
+E:\_Cours 315 A08\Module #2 (Sem 6 à 10)\Matériel\Sol_Exercices_DessinerFigures\DessinerFigures\obj\Debug\DessinerFigures.Properties.Resources.resources
+E:\_Cours 315 A08\Module #2 (Sem 6 à 10)\Matériel\Sol_Exercices_DessinerFigures\DessinerFigures\obj\Debug\DessinerFiguresCouleurs.csproj.GenerateResource.Cache
+E:\_Cours 315 A08\Module #2 (Sem 6 à 10)\Matériel\ExemFiguresPolymorphisme\ExemFiguresPolymorphisme\obj\Debug\DessinerFiguresCouleurs.exe
+E:\_Cours 315 A08\Module #2 (Sem 6 à 10)\Matériel\ExemFiguresPolymorphisme\ExemFiguresPolymorphisme\obj\Debug\DessinerFiguresCouleurs.pdb

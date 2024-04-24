@@ -1,0 +1,63 @@
+I:\_Cours 315 A08\Module #2 (Sem 6 à 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\ResolveAssemblyReference.cache
+I:\_Cours 315 A08\Module #2 (Sem 6 à 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.FrmPrincipal.resources
+I:\_Cours 315 A08\Module #2 (Sem 6 à 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.csproj.GenerateResource.Cache
+I:\_Cours 315 A08\Module #2 (Sem 6 à 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\bin\Debug\Exem3Polymorphisme.exe
+I:\_Cours 315 A08\Module #2 (Sem 6 à 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\bin\Debug\Exem3Polymorphisme.pdb
+I:\_Cours 315 A08\Module #2 (Sem 6 à 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.Properties.Resources.resources
+I:\_Cours 315 A08\Module #2 (Sem 6 à 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.exe
+I:\_Cours 315 A08\Module #2 (Sem 6 à 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.pdb
+E:\_Cours 315-A10\_Module #2 (Sem 06 à 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.exe
+E:\_Cours 315-A10\_Module #2 (Sem 06 à 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.pdb
+E:\_Cours 315-A10\_Module #2 (Sem 06 à 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\bin\Debug\Exem3Polymorphisme.exe
+E:\_Cours 315-A10\_Module #2 (Sem 06 à 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\bin\Debug\Exem3Polymorphisme.pdb
+E:\_Cours 315-A10\_Module #2 (Sem 06 à 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 315-A10\_Module #2 (Sem 06 à 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.FrmPrincipal.resources
+E:\_Cours 315-A10\_Module #2 (Sem 06 à 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.Properties.Resources.resources
+E:\_Cours 315-A10\_Module #2 (Sem 06 à 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 315-A10\_Module #2 (Sem 06 à 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 315-A11\_Module #2 (Sem 06 a 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.exe
+E:\_Cours 315-A11\_Module #2 (Sem 06 a 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.pdb
+E:\_Cours 315-A11\_Module #2 (Sem 06 a 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\bin\Debug\Exem3Polymorphisme.exe
+E:\_Cours 315-A11\_Module #2 (Sem 06 a 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\bin\Debug\Exem3Polymorphisme.pdb
+E:\_Cours 315-A11\_Module #2 (Sem 06 a 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 315-A11\_Module #2 (Sem 06 a 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.FrmPrincipal.resources
+E:\_Cours 315-A11\_Module #2 (Sem 06 a 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.Properties.Resources.resources
+E:\_Cours 315-A11\_Module #2 (Sem 06 a 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 315-A11\_Module #2 (Sem 06 a 10)\_Théorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 315-A11\_Module #2 (Sem 06 a 10)\_Theorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.exe
+E:\_Cours 315-A11\_Module #2 (Sem 06 a 10)\_Theorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.pdb
+E:\_Cours 315-A11\_Module #2 (Sem 06 a 10)\_Theorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 315-A11\_Module #2 (Sem 06 a 10)\_Theorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.FrmPrincipal.resources
+E:\_Cours 315-A11\_Module #2 (Sem 06 a 10)\_Theorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.Properties.Resources.resources
+E:\_Cours 315-A11\_Module #2 (Sem 06 a 10)\_Theorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 315-A11\_Module #2 (Sem 06 a 10)\_Theorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\ResGen.read.1.tlog
+E:\_Cours 315-A11\_Module #2 (Sem 06 a 10)\_Theorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 315-A11\_Module #2 (Sem 06 a 10)\_Theorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\ResGen.write.1.tlog
+E:\_Cours 315-A11\_Module #2 (Sem 06 a 10)\_Theorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\bin\Debug\Exem3Polymorphisme.exe
+E:\_Cours 315-A11\_Module #2 (Sem 06 a 10)\_Theorie #8\Exem3PolymorphismeFigures\Exem3Polymorphisme\bin\Debug\Exem3Polymorphisme.pdb
+E:\_Cours 315-A13\Module #2\R14 Theorie #7 v0.5\Theorie #7 (Contenu) v1.0\B) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.exe
+E:\_Cours 315-A13\Module #2\R14 Theorie #7 v0.5\Theorie #7 (Contenu) v1.0\B) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.pdb
+E:\_Cours 315-A13\Module #2\R14 Theorie #7 v0.5\Theorie #7 (Contenu) v1.0\B) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\bin\Debug\Exem3Polymorphisme.exe
+E:\_Cours 315-A13\Module #2\R14 Theorie #7 v0.5\Theorie #7 (Contenu) v1.0\B) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\bin\Debug\Exem3Polymorphisme.pdb
+E:\_Cours 315-A13\Module #2\R14 Theorie #7 v0.5\Theorie #7 (Contenu) v1.0\B) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.csprojResolveAssemblyReference.cache
+E:\_Cours 315-A13\Module #2\R14 Theorie #7 v0.5\Theorie #7 (Contenu) v1.0\B) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.FrmPrincipal.resources
+E:\_Cours 315-A13\Module #2\R14 Theorie #7 v0.5\Theorie #7 (Contenu) v1.0\B) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.Properties.Resources.resources
+E:\_Cours 315-A13\Module #2\R14 Theorie #7 v0.5\Theorie #7 (Contenu) v1.0\B) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.csproj.GenerateResource.Cache
+E:\_Cours 315-A13\Module #2\R14 Theorie #7 v1.0\Theorie #7 (Contenu) v1.0\B) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.exe
+E:\_Cours 315-A13\Module #2\R14 Theorie #7 v1.0\Theorie #7 (Contenu) v1.0\B) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.pdb
+E:\_Cours 315-A13\Module #2\R14 Theorie #7 v1.0\Theorie #7 (Contenu) v1.0\B) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\bin\Debug\Exem3Polymorphisme.exe
+E:\_Cours 315-A13\Module #2\R14 Theorie #7 v1.0\Theorie #7 (Contenu) v1.0\B) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\bin\Debug\Exem3Polymorphisme.pdb
+E:\_Cours 315-A13\Module #2\R14 Theorie #7 v1.0\Theorie #7 (Contenu) v1.0\B) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.csprojResolveAssemblyReference.cache
+E:\_Cours 315-A13\Module #2\R14 Theorie #7 v1.0\Theorie #7 (Contenu) v1.0\B) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.FrmPrincipal.resources
+E:\_Cours 315-A13\Module #2\R14 Theorie #7 v1.0\Theorie #7 (Contenu) v1.0\B) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.Properties.Resources.resources
+E:\_Cours 315-A13\Module #2\R14 Theorie #7 v1.0\Theorie #7 (Contenu) v1.0\B) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.csproj.GenerateResource.Cache
+E:\_Cours 315-A14\Module #2\R15 Theorie #7 v1.0\Theorie #7 (Contenu) v1.0\A) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.exe
+E:\_Cours 315-A14\Module #2\R15 Theorie #7 v1.0\Theorie #7 (Contenu) v1.0\A) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.pdb
+F:\_Cours 315-A14\Module #2\R15 Theorie #7 v1.0\Theorie #7 (Contenu) v1.0\B) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.exe
+F:\_Cours 315-A14\Module #2\R15 Theorie #7 v1.0\Theorie #7 (Contenu) v1.0\B) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.pdb
+F:\_Cours 315-A14\Module #2\R15 Theorie #7 v1.0\Theorie #7 (Contenu) v1.0\B) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\bin\Debug\Exem3Polymorphisme.exe
+F:\_Cours 315-A14\Module #2\R15 Theorie #7 v1.0\Theorie #7 (Contenu) v1.0\B) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\bin\Debug\Exem3Polymorphisme.pdb
+F:\_Cours 315-A14\Module #2\R15 Theorie #7 v1.0\Theorie #7 (Contenu) v1.0\B) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.csprojResolveAssemblyReference.cache
+F:\_Cours 315-A14\Module #2\R15 Theorie #7 v1.0\Theorie #7 (Contenu) v1.0\B) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.FrmPrincipal.resources
+F:\_Cours 315-A14\Module #2\R15 Theorie #7 v1.0\Theorie #7 (Contenu) v1.0\B) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.Properties.Resources.resources
+F:\_Cours 315-A14\Module #2\R15 Theorie #7 v1.0\Theorie #7 (Contenu) v1.0\B) Polymorphisme\Exem3PolymorphismeFigures\Exem3Polymorphisme\obj\Debug\Exem3Polymorphisme.csproj.GenerateResource.Cache

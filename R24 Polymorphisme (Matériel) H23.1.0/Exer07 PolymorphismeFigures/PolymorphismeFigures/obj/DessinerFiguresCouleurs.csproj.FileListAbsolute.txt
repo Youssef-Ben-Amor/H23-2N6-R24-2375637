@@ -1,0 +1,24 @@
+J:\_Cours 206 H08\Chapitre 6 Polymorphisme et GDI+\DessinerFiguresCouleurs Editeur\DessinerFigures\obj\Debug\DessinerFiguresCouleurs.exe
+J:\_Cours 206 H08\Chapitre 6 Polymorphisme et GDI+\DessinerFiguresCouleurs Editeur\DessinerFigures\obj\Debug\DessinerFiguresCouleurs.pdb
+J:\_Cours 206 H08\Chapitre 6 Polymorphisme et GDI+\DessinerFiguresCouleurs Editeur\DessinerFigures\obj\Debug\ResolveAssemblyReference.cache
+J:\_Cours 206 H08\Chapitre 6 Polymorphisme et GDI+\DessinerFiguresCouleurs Editeur\DessinerFigures\obj\Debug\DessinerFigures.FrmPrincipal.resources
+J:\_Cours 206 H08\Chapitre 6 Polymorphisme et GDI+\DessinerFiguresCouleurs Editeur\DessinerFigures\obj\Debug\DessinerFigures.Properties.Resources.resources
+J:\_Cours 206 H08\Chapitre 6 Polymorphisme et GDI+\DessinerFiguresCouleurs Editeur\DessinerFigures\obj\Debug\DessinerFiguresCouleurs.csproj.GenerateResource.Cache
+J:\_Cours 206 H08\Chapitre 6 Polymorphisme et GDI+\DessinerFiguresCouleurs Editeur\DessinerFigures\bin\Debug\DessinerFiguresCouleurs.exe
+J:\_Cours 206 H08\Chapitre 6 Polymorphisme et GDI+\DessinerFiguresCouleurs Editeur\DessinerFigures\bin\Debug\DessinerFiguresCouleurs.pdb
+J:\_Cours 206 H08\Chapitre 6 Polymorphisme et GDI+\DessinerFiguresEditeurPlus\DessinerFiguresEditeurPlus\DessinerFigures\obj\Debug\DessinerFiguresCouleurs.exe
+J:\_Cours 206 H08\Chapitre 6 Polymorphisme et GDI+\DessinerFiguresEditeurPlus\DessinerFiguresEditeurPlus\DessinerFigures\obj\Debug\DessinerFiguresCouleurs.pdb
+J:\_Cours 206 H08\Chapitre 6 Polymorphisme et GDI+\DessinerFiguresEditeurPlus\DessinerFiguresEditeurPlus\DessinerFigures\bin\Debug\DessinerFiguresCouleurs.exe
+J:\_Cours 206 H08\Chapitre 6 Polymorphisme et GDI+\DessinerFiguresEditeurPlus\DessinerFiguresEditeurPlus\DessinerFigures\bin\Debug\DessinerFiguresCouleurs.pdb
+J:\_Cours 206 H08\Chapitre 6 Polymorphisme et GDI+\DessinerFiguresEditeurPlus\DessinerFiguresEditeurPlus\DessinerFigures\obj\Debug\ResolveAssemblyReference.cache
+J:\_Cours 206 H08\Chapitre 6 Polymorphisme et GDI+\DessinerFiguresEditeurPlus\DessinerFiguresEditeurPlus\DessinerFigures\obj\Debug\DessinerFigures.FrmPrincipal.resources
+J:\_Cours 206 H08\Chapitre 6 Polymorphisme et GDI+\DessinerFiguresEditeurPlus\DessinerFiguresEditeurPlus\DessinerFigures\obj\Debug\DessinerFigures.Properties.Resources.resources
+J:\_Cours 206 H08\Chapitre 6 Polymorphisme et GDI+\DessinerFiguresEditeurPlus\DessinerFiguresEditeurPlus\DessinerFigures\obj\Debug\DessinerFiguresCouleurs.csproj.GenerateResource.Cache
+J:\_Cours 206 H08\Chapitre 6 Polymorphisme et GDI+\Jeudi_Exercices GDI+\Sol_Exercices_DessinerFigures\DessinerFigures\obj\Debug\DessinerFiguresCouleurs.exe
+J:\_Cours 206 H08\Chapitre 6 Polymorphisme et GDI+\Jeudi_Exercices GDI+\Sol_Exercices_DessinerFigures\DessinerFigures\obj\Debug\DessinerFiguresCouleurs.pdb
+J:\_Cours 206 H08\Chapitre 6 Polymorphisme et GDI+\Jeudi_Exercices GDI+\Sol_Exercices_DessinerFigures\DessinerFigures\bin\Debug\DessinerFiguresCouleurs.exe
+J:\_Cours 206 H08\Chapitre 6 Polymorphisme et GDI+\Jeudi_Exercices GDI+\Sol_Exercices_DessinerFigures\DessinerFigures\bin\Debug\DessinerFiguresCouleurs.pdb
+J:\_Cours 206 H08\Chapitre 6 Polymorphisme et GDI+\Jeudi_Exercices GDI+\Sol_Exercices_DessinerFigures\DessinerFigures\obj\Debug\ResolveAssemblyReference.cache
+J:\_Cours 206 H08\Chapitre 6 Polymorphisme et GDI+\Jeudi_Exercices GDI+\Sol_Exercices_DessinerFigures\DessinerFigures\obj\Debug\DessinerFigures.FrmPrincipal.resources
+J:\_Cours 206 H08\Chapitre 6 Polymorphisme et GDI+\Jeudi_Exercices GDI+\Sol_Exercices_DessinerFigures\DessinerFigures\obj\Debug\DessinerFigures.Properties.Resources.resources
+J:\_Cours 206 H08\Chapitre 6 Polymorphisme et GDI+\Jeudi_Exercices GDI+\Sol_Exercices_DessinerFigures\DessinerFigures\obj\Debug\DessinerFiguresCouleurs.csproj.GenerateResource.Cache
